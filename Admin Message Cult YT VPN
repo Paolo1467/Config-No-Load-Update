@@ -1,2 +1,14 @@
-{ "SendMessage":30, "MyMessage": "
-Welcome 😍, Kindly Check If You Are Using The Latest Config Update (16) and check if you are using the latest app ( 1.1.4 ) ( build 4 ) If You Encounter No Browse Try To Check/Uncheck FORWARD DNS then Change Primary DNS To 1.1.1.1 & 1.0.0.1 Thank you 💜" }\n\n
+{ "SendMessage":31, "MyMessage": "
+Important Notice:
+
+Kapag Nag huhunt ng MAGIC IP means Success Kana Pero Pag Icoconnect na 302 Move Permanently Ang Lalabas, Kapag Ganito ang nangyari Airplane mode lang hanggang sa mag 302 Found I hope This Helps
+
+If you Encounter No Browse, Uncheck/Check Forward DNS or Set This On Primary DNS "DNS01: 0.0.0
+0 DNS2: 0.0.0.0 or 1.1.1.1 & 1.0.0.1 Then Try To Connect
+
+Thank You For Supporting 💙
+
+- Latest Server Update: (16)
+- No App Update Available Yet
+
+• Fixed SlowDNS & PisoWiFi" }\n\n
